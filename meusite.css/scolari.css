@@ -1,0 +1,35 @@
+
+p {
+    color: aliceblue;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+.imagempulseira {
+    width: 25%;
+    margin-right: 15%;
+}
+
+.coleçoes {
+    background: #424040;
+    padding: 20px;
+}
+
+ul {
+    color: aliceblue;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    
+}
+
+h3 {
+    color: aliceblue;
+}
